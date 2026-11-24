@@ -1,0 +1,42 @@
+{
+  "updated": "2026-11",
+  "referenceUrl": "https://ofxready.com/fix-qbo-intu-bid-error",
+  "verifiedIntuBids": [
+    {
+      "code": "3000",
+      "institution": "Wells Fargo (Universal QuickBooks Web Connect Fallback)",
+      "defaultRouting": "121000248",
+      "guide": "https://ofxready.com/banks/wells-fargo-pdf-to-qbo"
+    },
+    {
+      "code": "10898",
+      "institution": "JPMorgan Chase Bank",
+      "defaultRouting": "021000021",
+      "guide": "https://ofxready.com/banks/chase-pdf-to-qbo"
+    },
+    {
+      "code": "6812",
+      "institution": "Bank of America",
+      "defaultRouting": "026009593",
+      "guide": "https://ofxready.com/banks/bank-of-america-pdf-to-qbo"
+    },
+    {
+      "code": "3101",
+      "institution": "American Express",
+      "defaultRouting": "000000000",
+      "guide": "https://ofxready.com/banks/amex-pdf-to-qbo"
+    },
+    {
+      "code": "24909",
+      "institution": "Citibank",
+      "defaultRouting": "021000089",
+      "guide": "https://ofxready.com"
+    },
+    {
+      "code": "15688",
+      "institution": "Capital One",
+      "defaultRouting": "051405515",
+      "guide": "https://ofxready.com"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "quickbooks-intu-bid-fixer",
+  "version": "1.0.0",
+  "description": "Repair QuickBooks Web Connect (.QBO / OFX 102) INTU.BID errors, headers, and 32-char payee limits.",
+  "type": "module",
+  "bin": {
+    "fix-qbo": "./fix-qbo.mjs"
+  },
+  "homepage": "https://ofxready.com/fix-qbo-intu-bid-error",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucas12188/quickbooks-intu-bid-fixer.git"
+  },
+  "keywords": [
+    "quickbooks",
+    "qbo",
+    "ofx",
+    "intu-bid",
+    "web-connect",
+    "bookkeeping",
+    "csv-to-qbo",
+    "pdf-to-qbo"
+  ],
+  "license": "MIT"
+}
